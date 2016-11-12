@@ -1,6 +1,6 @@
 # Git-Test
 ## Test - Prueba de un programa en BASIC en ordenador físico
-- Código sin comentar
+- Código sin comentar  
 	![img](https://github.com/amdnr/Git-Test/blob/master/program.jpg)
-- Ejecución
+- Ejecución  
 	![img](https://github.com/amdnr/Git-Test/blob/master/run.jpg)
