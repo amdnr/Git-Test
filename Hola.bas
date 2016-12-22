@@ -1,5 +1,5 @@
 10 REM Git-Test BASIC v1.0
-20 REM (L)2016, amdnr
+20 REM (L)2016, donas11
 30 REM Version 1.0: 12/11/16
 40 DATA 72,111,108,97
 50 READ H,O,L,A
